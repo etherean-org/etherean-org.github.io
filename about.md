@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Etherean.org is a community dedicated to discussing the big picture: humans, technology, and the connections between them; techno-pragmatism, as opposed to techno-utopianism, with an eye towards avoiding techno-dystopian futures. We believe that tech is wonderful and its power can and must be harnessed for great good, but that tech alone solves nothing.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Browse the posts on this blog and check out the [forum](https://forum.etherean.org). Feel free to contribute!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
