@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.etherean.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lrettig
 github_username:  lrettig
+google_analytics: UA-73254171-4
 
 # Build settings
 markdown: kramdown
