@@ -8,7 +8,7 @@ date:     2019-09-15 15:56:00 -0400
 categories: blockchain
 ---
 
-![An engine](/assets/james-wainscoat-b7MZ6iGIoSI-unsplash.jpg)
+![A flock of starlings](/assets/james-wainscoat-b7MZ6iGIoSI-unsplash.jpg)
 
 <p style="text-align: center"><sub>Starling murmurations are completely leaderless and decentralized and are governed by a surprisingly simple algorithm followed by each actor. Would that core devs were as simple! Photo by <a href="https://unsplash.com/@tumbao1949?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">James Wainscoat</a> on <a href="https://unsplash.com/collections/8639019/decentralization?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.</sub></p>
 
