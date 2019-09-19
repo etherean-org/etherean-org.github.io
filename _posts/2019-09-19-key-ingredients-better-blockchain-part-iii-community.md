@@ -8,7 +8,7 @@ date:     2019-09-19 14:44:00 -0400
 categories: [blockchain, community]
 ---
 
-![An engine](/assets/mvimg-20190821-125450.jpg)
+![Whiteboarding at the Web3 Summit](/assets/mvimg-20190821-125450.jpg)
 
 <p style="text-align: center"><sub>What an engaged community looks like. Web3 Summit 2019. Photo by the author.</sub></p>
 
