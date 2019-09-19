@@ -5,7 +5,7 @@ subtitle: "Our understanding of what makes a blockchain successful is becoming c
 image:    /assets/mvimg-20190821-125450.jpg
 author:   Lane Rettig
 date:     2019-09-19 14:44:00 -0400
-categories: blockchain
+categories: [blockchain, community]
 ---
 
 ![An engine](/assets/mvimg-20190821-125450.jpg)
