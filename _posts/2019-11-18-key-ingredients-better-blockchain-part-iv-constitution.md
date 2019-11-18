@@ -12,7 +12,7 @@ categories: [blockchain, community, governance]
 
 <p style="text-align: center"><sub>As it turns out, defining constitution is pretty hard. At the #EIP0 summit, 2018. Photo by the author.</sub></p>
 
-[This is part of a multi-part series on the key ingredients to a better blockchain. I recommend starting with part one, [Tech and Protocol](/blockchain/2019/09/09/key-ingredients-better-blockchain-part-i-tech-and-protocol.html).]
+{%- include blockchain-nav-top.html -%}
 
 > “Culture eats strategy for breakfast” — of debated coinage, attributed to Peter Drucker, and popularized by Ford CEO Mark Fields.
 
@@ -40,3 +40,5 @@ Constitution is not just about _what you say,_ it’s as much about _how you say
 *   **Is your project coherent with respect to its constitution and open to criticism?** Is there internal consistency and honesty about the current state of affairs, even during challenging times, or is there hypocrisy, denial, and an [ostrich effect](https://en.wikipedia.org/wiki/Ostrich_effect)? Are dissenting voices respected and honored, or silenced? Is everyone expected to toe the “party line,” or is there healthy debate about how to improve? A project and a community that isn’t internally consistent, or one that isn’t open to constructive criticism, will stagnate as dissenting contributors migrate elsewhere.
 
 Unsurprisingly, constitution is closely related to governance, the next topic (coming soon).
+
+{%- include blockchain-nav-bottom.html -%}
