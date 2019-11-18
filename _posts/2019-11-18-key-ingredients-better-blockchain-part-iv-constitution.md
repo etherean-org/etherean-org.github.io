@@ -2,13 +2,13 @@
 layout:   post
 title:    "The key ingredients to a better blockchain, Part IV: Constitution"
 subtitle: "Our understanding of what makes a blockchain successful is becoming clear. What will it take to succeed?"
-image:    /assets/img-2866.jpg
+image:    /assets/img_2866.jpg
 author:   Lane Rettig
 date:     2019-11-18 10:49:00 -0500
 categories: [blockchain, community, governance]
 ---
 
-![Defining constitution at the #EIP0 Summit](/assets/img-2866.jpg)
+![Defining constitution at the #EIP0 Summit](/assets/img_2866.jpg)
 
 <p style="text-align: center"><sub>As it turns out, defining constitution is pretty hard. At the #EIP0 summit, 2018. Photo by the author.</sub></p>
 
