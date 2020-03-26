@@ -46,7 +46,7 @@ In governance systems based on voting, the most important question is whether th
 
 Many of the ideas in this article, including the definition of governance, were heavily influenced by the [Wharton Cryptogovernance Workshop](https://cryptogov.net/). My gratitude to all of its participants and contributors. You may wish to view the [governance assessment questionnaire](https://cryptogov.net/questionnaire/), a product of that initiative, which presents a far more thorough examination than this article can of the questions and tradeoffs of blockchain governance.
 
-The next article in this series (coming soon) is about privacy: why is privacy important for blockchain, and how can and should blockchain platforms and communities promote privacy, both technically and socially?
+The next article in this series is about [privacy](/blockchain/privacy/2020/03/26/key-ingredients-better-blockchain-part-vi-privacy.html): why is privacy important for blockchain, and how can and should blockchain platforms and communities promote privacy, both technically and socially?
 
 {%- include blockchain-nav-bottom.html -%}
 
