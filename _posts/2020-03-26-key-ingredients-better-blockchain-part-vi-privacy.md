@@ -2,15 +2,15 @@
 layout:   post
 title:    "The key ingredients to a better blockchain, Part VI: Privacy"
 subtitle: "Our understanding of what makes a blockchain successful is becoming clear. What will it take to succeed?"
-image:    /assets/governancegames.jpg
+image:    /assets/privacy.jpg
 author:   Lane Rettig
-date:     2020-03-25 17:36:00 -0500
+date:     2020-03-26 15:26:00 -0400
 categories: [blockchain, privacy]
 ---
 
-![Defining constitution at the #EIP0 Summit](/assets/governancegames.jpg)
+![You are being watched](/assets/privacy.jpg)
 
-<p style="text-align: center"><sub>For something no one seemed to care about a year or two ago, blockchain governance has become a hot topic lately, and for good reason. John Light speaks at the Governance Games, Berlin, August 2019. Photo by the author.</sub></p>
+<p style="text-align: center"><sub>Wherever you go, there you're watched. Maintaining good privacy can sometimes feel like a losing battle. Fortunately, blockchain technology gives us some tools to fight back. Photo by the author.</sub></p>
 
 {%- include blockchain-nav-top.html -%}
 
