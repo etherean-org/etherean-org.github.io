@@ -122,9 +122,9 @@ The best privacy technology in the world is useless if it’s too difficult, slo
 
 ## Conclusion
 
-Privacy is one of the explicit goals described in the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)—in fact, it got its own section! Ten years ago, privacy best practice meant that, as Satoshi admonished, “a new key pair should be used for each transaction.” While perfect privacy remains elusive, we have far better and more powerful privacy tools at our disposal today. It’s encouraging to see these tools begin to make their way into production blockchain systems.
+Privacy is one of the explicit goals described in the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)—in fact, it got its own section! Ten years ago, the extent of blockchain privacy technology was, “a new key pair should be used for each transaction” (as Satoshi admonished). While perfect privacy remains elusive, we have far better and more powerful privacy tools at our disposal today. It’s encouraging to see these tools begin to make their way into production blockchain systems.
 
-It’s incumbent upon us to keep the cypherpunk spirit alive and to continue to research, develop, and educate the public about these tools and why they’re so important. In an age of increasingly terrifying, high-tech, mass surveillance, strong privacy is one of the few remaining bulwarks against an all-knowing, unaccountable state. Blockchain technology can and should be a conduit for putting this power in the hands of everyday people everywhere.
+It’s incumbent upon us to keep the cypherpunk spirit alive and to continue to research, develop, and educate the public about these tools and why they’re so important. In an age of increasingly powerful, high-tech, mass surveillance, strong privacy is an essential bulwark against an all-knowing, unaccountable state. Blockchain technology can and should be a conduit for putting this power in the hands of everyday people everywhere.
 
 {%- include blockchain-nav-bottom.html -%}
 
