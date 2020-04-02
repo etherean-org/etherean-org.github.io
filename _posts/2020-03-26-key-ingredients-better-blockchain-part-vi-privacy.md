@@ -8,7 +8,7 @@ date:     2020-03-26 15:26:00 -0400
 categories: [blockchain, privacy]
 ---
 
-![You are being watched](/assets/privacy.jpg)
+![You are being watched]({{page.image}})
 
 <p style="text-align: center"><sub>Wherever you go, there you're watched. Maintaining good privacy can sometimes feel like a losing battle. Fortunately, blockchain technology gives us some tools to fight back. Photo by the author.</sub></p>
 
