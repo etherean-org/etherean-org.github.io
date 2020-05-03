@@ -9,7 +9,7 @@ categories: [blockchain, economics, society]
 ---
 ![A mysterious island]({{page.image}})
 
-<p style="text-align: center"><sub>Finders, keepers. But the interesting part is what comes after. Photo by <a href="https://unsplash.com/@namu_photograph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hitoshi Namura</a> on <a href="https://unsplash.com/collections/10054084/islands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub></p>
+<p style="text-align: center"><sub>Finders, keepers. But the interesting part is what comes after. Photo by <a href="https://unsplash.com/@namu_photograph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hitoshi Namura</a> on Unsplash</sub></p>
 
 ## Paradise found
 
