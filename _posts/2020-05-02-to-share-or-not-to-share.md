@@ -96,6 +96,8 @@ As long as blockchain projects put property rights on a pedestal, ahead of more 
 
 Enlightened founders will learn to save plenty of “dry powder,” in the form of a meaningful stake in wealth, ownership, and governance, to incentivize future community members to join, contribute, and stick around. They will install [good governance policies](/blockchain/governance/2020/01/06/key-ingredients-better-blockchain-part-v-governance.html) such as accountability and transparency, to ensure that future generations of “islanders” have a role to play in governance and can participate in economic upside.
 
+To be clear, they're under no obligation to do so. A legitmate founder has absolutely earned a license to exclusive ownership and control of whatever they've founded. This point is not in debate. The question to such a founder is, why should the world care about your island if you're not interested in having a broader array of stakeholders? In the twentieth century, the privately-held corporate empire was the norm. In the twenty-first, in the era of the blockchain, this model will be replaced by networks with an order of magnitude more stakeholders. We're still figuring this model out, but now is a great time to take it out for a spin and see what it's capable of.
+
 There are many islands out there, some sunnier than others, some with better economic policies than others. Which one will you pick, and why? I urge you to look past charismatic founders and shiny new technology and consider first of all what a project stands for.
 
 [^1]: This admittedly farfetched plot [may not sound so absurd](https://en.wikipedia.org/wiki/Cryptonomicon) to fans of Neal Stephenson.
