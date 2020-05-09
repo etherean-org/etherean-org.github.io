@@ -2,12 +2,12 @@
 layout:   post
 title:    "The Problem With Grants"
 subtitle: "Grants are a great start, but they don't take advantage of the superpower of blockchain. We can do better."
-image:    /assets/hitoshi-namura-DaTa659Oqfo-unsplash.jpg
+image:    /assets/grant.jpg
 author:   Lane Rettig
 date:     2020-05-10 08:16:00 -0400
 categories: [blockchain, economics]
 ---
-![A mysterious island]({{page.image}})
+![Ulysses S. Grant]({{page.image}})
 
 <p style="text-align: center"><sub>Here is one famous Grant: General Ulysses S. Grant. He is not the source of our problems. In fact, he has very little to do with blockchain, but this is a great photo. Would you ask this guy for money? (<a href="https://www.nps.gov/locations/lowermsdeltaregion/granttour.htm">Image source</a>)</sub></p>
 
