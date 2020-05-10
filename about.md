@@ -10,3 +10,4 @@ See [Welcome to the new Etherean.org](/community/meta/2019/08/24/welcome-to-the-
 
 Browse the posts on this blog and check out the [forum](https://forum.etherean.org). Feel free to contribute!
 
+You can find similar content at my personal blog, [Applescotch](https://www.applescotch.com/).
