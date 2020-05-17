@@ -100,4 +100,4 @@ _Have you designed, built, or transacted on a decentralized system? What was you
 
 [^7]: Interestingly, this same continuum holds in the blockchain space, and probably in all distributed systems. Compare the approaches to scaling taken by Ethereum 2 and NEAR (many identical shards) to those of Polkadot (many app chains that all share security) or Cosmos (totally sovereign app chains).
 
-[^8]: This is a fascinating and highly contentious topic in certain decentralized, autonomous systems such as blockchains and smart contracts. I explore this topic at length in [Autonocrats & Anthropocrats](https://www.etherean.org/blockchain/community/governance/2020/03/04/autonocrats-anthropocrats.html).
+[^8]: This is a fascinating and highly contentious topic in certain decentralized, autonomous systems such as blockchains and smart contracts. I explore this topic at length in [Autonocrats & Anthropocrats](/blockchain/community/governance/2020/03/04/autonocrats-anthropocrats.html).
