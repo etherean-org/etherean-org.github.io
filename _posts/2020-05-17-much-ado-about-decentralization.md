@@ -1,9 +1,16 @@
---
-title: Much Ado About Decentralization
+---
+layout:   post
+title:    Much Ado About Decentralization
 subtitle: Decentralization is oft-invoked but ill-understood. A good place to start is, what is it good for?
-Image: Decentralize all the things! meme? Camp Decentral?
-Image Description: Decentralize all the things? Maybe let’s start out with some of the things, some of the time :)
---
+image:    /assets/decentralize.jpg
+author:   Lane Rettig
+date:     2020-05-17 15:44:00 -0400
+categories: [blockchain, decentralization]
+---
+![Decentralize sign]({{page.image}})
+
+<p style="text-align: center"><sub>Decentralize all the things? Maybe let’s start with some of the things, some of the time :) Lots of decentralized magic happened at this room, at ETHDenver. Photo by the author.</sub></p>
+
 I’ve written about how we might think about decentralization [in the context of blockchain](/blockchain/2019/09/15/key-ingredients-better-blockchain-part-ii-decentralization.html), but I want to zoom out and think about it a little more broadly. Decentralization is a topic that comes up more often than probably any other topic in the blockchain community. Yet I’ve noticed that we tend to take it for granted—that is to say, we accept it at face value, as an end in and of itself, without defining it or debating where and why decentralization is valuable. This fervor is best captured by the oft-repeated mantra, “Decentralize all the things!”
 
 Decentralization has many benefits, and of course it also has many costs. Since the topic comes up so often, I thought it would be fun to attempt to write a canonical list of the arguments in favor of decentralization, as well as the arguments against it. I hope these lists might be helpful as a reference for anyone considering which things to decentralize, and when, and how :)
