@@ -2,14 +2,14 @@
 layout:   post
 title:    Why I Dislike Proof of Stake
 subtitle: Many high profile blockchains are choosing proof of stake. Have they considered all of the implications of this choice?
-image:    /assets/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg
+image:    /assets/kvistholt-photography-oZPwn40zCK4-unsplash.jpg
 author:   Lane Rettig
 date:     2020-06-27 10:13:00 -0400
 categories: [blockchain, consensus]
 ---
-![A tiny house and a big set of keys]({{page.image}})
+![Servers in a data center]({{page.image}})
 
-<p style="text-align: center"><sub>Home ownership hasn't worked out so well for most humans. Would that we do better in the digital world to come. Photo by <a href="https://unsplash.com/@tierramallorca?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tierra Mallorca</a> on Unsplash</sub></p>
+<p style="text-align: center"><sub>Proof of stake significantly reduces the energy consumed by cryptocurrency mining, but at what cost? Consensus will still depend on huge datacenters, not on devices operated by everyday people. Photo by <a href="https://unsplash.com/@freeche?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kvistholt Photography</a> on Unsplash</sub></p>
 
 Polkadot, NEAR Protocol, Ethereum 2, and many other high profile, modern blockchain platforms are choosing Proof of Stake (PoS) over Proof of Work (PoW), the original consensus mechanism that powers Bitcoin and Ethereum. This is understandable as PoS is not without merits and addresses some existing blockchain frustrations and limitations.
 
