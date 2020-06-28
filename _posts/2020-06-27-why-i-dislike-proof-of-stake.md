@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    Why I Dislike Proof of Stake
-subtitle: Many high profile blockchains are choosing proof of stake. Have they considered all of the implications of this choice?
+subtitle: Proof of stake is the leading contender to replace proof of work, but it has a long list of shortcomings. Surely we can do better.
 image:    /assets/kvistholt-photography-oZPwn40zCK4-unsplash.jpg
 author:   Lane Rettig
 date:     2020-06-27 10:13:00 -0400
