@@ -32,7 +32,7 @@ Of course, PoW also has shortcomings. Most notably, it’s extremely energy inte
 
 It’s still early days for blockchain technology in general. I don’t believe that either PoW or PoS represents the final or best possible consensus mechanism, and that we cannot do better. I remain excited about the prospects of PoST and many other experiments being run in this space.
 
-Do you agree or disagree? What’s missing from this list? Which consensus mechanisms are you excited about? Leave a comment [LINK] and let me know!
+Do you agree or disagree? What’s missing from this list? Which consensus mechanisms are you excited about? [Leave a comment](https://forum.etherean.org/t/why-i-dislike-proof-of-stake-etherean-org/328) and let me know!
 
 [^1]: Of course, this is true of Bitcoin as well: a collapse in BTC value would cause some miners to stop mining BTC, which could in turn cause the value to collapse further, in a negative feedback loop. It’s probably _also_ true of fiat currency. If people were to stop believing in “the full faith and credit” of the United States government, the USD might lose value relative to other currencies, which in turn might have political and economic consequences that would cause yet more people to lose faith in the USD, the same negative feedback loop. This is true for _any_ commodity without intrinsic value. Still, PoS is newer and less proven. Time will tell how it acts in extreme market conditions.
 
