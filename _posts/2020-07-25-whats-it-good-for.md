@@ -2,14 +2,14 @@
 layout:   post
 title:    What's It Good For?
 subtitle: The answer is not “absolutely nothing,” nor is it “all the things.” Like most technologies, blockchain is very good at a few things and pretty bad at everything else. It’s time to figure out where it fits into the big picture.
-image:    /assets/kvistholt-photography-oZPwn40zCK4-unsplash.jpg
+image:    /assets/ryoji-iwata-5siQcvSxCP8-unsplash.jpg
 author:   Lane Rettig
 date:     2020-07-25 08:57:00 -0400
 categories: [blockchain, web3, software]
 ---
-![Servers in a data center]({{page.image}})
+![Placing a piece in a jigsaw puzzle]({{page.image}})
 
-<p style="text-align: center"><sub>Proof of stake significantly reduces the energy consumed by cryptocurrency mining, but at what cost? Consensus will still depend on huge datacenters, not on devices operated by everyday people. Photo by <a href="https://unsplash.com/@freeche?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kvistholt Photography</a> on Unsplash</sub></p>
+<p style="text-align: center"><sub>Blockchain is no doubt an important piece of the puzzle. But exactly which piece, and the overall shape of the puzzle, is just starting to become clear. Photo by <a href="https://unsplash.com/@ryoji__iwata?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ryoji Iwata</a> on Unsplash</sub></p>
 
 In the beginning, Bitcoin was touted as a better kind of money: peer to peer, electronic cash. Today, the narrative has narrowed to digital gold, i.e., only a store of value. Ethereum, in the beginning, had an even more ambitious vision: a decentralized world computer [LINK]. Ethereum today has one main use case: decentralized finance, better known as “DeFi.”
 
