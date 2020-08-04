@@ -2,12 +2,14 @@
 layout:   post
 title:    Faster Horses, Better Software
 subtitle: Software today is far more broken than most people realize. It didn't have to be this way, and it still doesn't. It's time to rethink it completely.
-image:    /assets/ryoji-iwata-5siQcvSxCP8-unsplash.jpg
+image:    /assets/fredy-jacob-t0SlmanfFcg-unsplash.jpg
 author:   Lane Rettig
 date:     2020-08-04 11:46:00 -0400
 categories: [blockchain, web3, software]
 ---
-![Placing a piece in a jigsaw puzzle]({{page.image}})
+![An old 3.5" floppy disk]({{page.image}})
+
+<p style="text-align: center"><sub>It's hard to believe today, but software used to come on floppy disks like this one. As basic as that software was, I'm not entirely convinced software today is better. Photo by <a href="https://unsplash.com/@thefredyjacob?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Fredy Jacob</a> on Unsplash</sub></p>
 
 One of my favorite quotes about innovation is the oft-repeated quote, [misattributed](https://hbr.org/2011/08/henry-ford-never-said-the-fast) to Henry Ford, but nevertheless insightful: “If I had asked people what they wanted, they would have said faster horses.”
 
@@ -20,9 +22,11 @@ By the same token, today, the world needs a paradigm shift in software and compu
 
 # How software is broken
 
-Software is broken in a huge variety of ways: some technical, some social, some economic. The first and most obvious example is the phenomenon of [surveillance capitalism](https://news.harvard.edu/gazette/story/2019/03/harvard-professor-says-surveillance-capitalism-is-undermining-democracy/). This is one of the only aspects of the brokenness of software that people _do_ talk about. However, only a minority complain about it, and an even tinier minority do anything about it. Others have [told this story](https://youtu.be/qQ-PUXPVlos) better than I can here, but in brief, before the era of broadband and software as a service, we used to actually _buy _software, which came in shrink-wrapped boxes. It may have been expensive and the update cycle may have been slow by modern standards, but at least it didn’t spy on us. We used to run it on machines that we owned and controlled, and we used to have control of the software and of the data, too. That all changed with the advent of the Internet and the Web. We subsequently made a Faustian bargain to sell our data, our behavior, and our digital selves in exchange for ostensibly “free” software as a service.
+Software is broken in a huge variety of ways: some technical, some social, some economic. The first and most obvious example is the phenomenon of [surveillance capitalism](https://news.harvard.edu/gazette/story/2019/03/harvard-professor-says-surveillance-capitalism-is-undermining-democracy/). This is one of the only aspects of the brokenness of software that people _do_ talk about. However, only a minority complain about it, and an even tinier minority do anything about it. Others have [told this story](https://youtu.be/qQ-PUXPVlos) better than I can here, but in brief, before the era of broadband and software as a service, we used to actually _buy_ software, which came in shrink-wrapped boxes. It may have been expensive and the update cycle may have been slow by modern standards, but at least it didn’t spy on us. We used to run it on machines that we owned and controlled, and we used to have control of the software and of the data, too. That all changed with the advent of the Internet and the Web. We subsequently made a Faustian bargain to sell our data, our behavior, and our digital selves in exchange for ostensibly “free” software as a service.
 
-[IMAGE]
+![Shrink-wrapped software](/assets/boxed_software.jpg)
+
+<p style="text-align: center"><sub>What software used to look like. <a href="https://commons.wikimedia.org/wiki/File:My_shelf_of_obsolete_software._I_never_even_used_%22Renderman%22_but_ti_was_on_the_shelf_when_I_started_here._The_copies_of_VersaTerm,_Word_5,_and_Excel_4.0_for_Mac_are_all_shrink_wrapped._Are_the_worth_(116957071).jpg">Source</a></sub></p>
 
 We can all agree that we no longer have control of the software we run in any meaningful sense—and if you don’t understand how a technology or a product works, then in effect it’s running you, not the other way around. Our software serves the companies that build and operate it, not us. This is in fact a perversion of the original idea of software. The original concept of software was that of a digital agent designed to help the user. Software has morphed from a Jobsian “bicycle for the mind” into a hamster wheel, a prison, a panopticon—pick your favorite dystopian metaphor—where we’re all performing work for the algorithms and for our digital overlords without even realizing it (and, obviously, not getting paid for that work). It wasn’t supposed to be this way.
 
