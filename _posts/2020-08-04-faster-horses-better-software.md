@@ -20,7 +20,7 @@ Of course, what the world needed in Ford’s day was not faster horses, more hor
 By the same token, today, the world needs a paradigm shift in software and computing. My answer to Peter Thiel’s _[Zero to One question](https://fs.blog/2015/11/the-single-best-interview-question-you-can-ask/)_ is: Software today is completely broken. It’s taken us about as far as it can, and if we want to continue to advance the state of the art of computing, we must totally reimagine the computing and software stack: we need a Model T to software’s tired horses. Of course, most people don’t realize this—most people are probably pretty happy with their software, and would probably remark if asked that software has gotten better and better. This is only partially true, as I’ll explain below.
 
 
-# How software is broken
+## How software is broken
 
 Software is broken in a huge variety of ways: some technical, some social, some economic. The first and most obvious example is the phenomenon of [surveillance capitalism](https://news.harvard.edu/gazette/story/2019/03/harvard-professor-says-surveillance-capitalism-is-undermining-democracy/). This is one of the only aspects of the brokenness of software that people _do_ talk about. However, only a minority complain about it, and an even tinier minority do anything about it. Others have [told this story](https://youtu.be/qQ-PUXPVlos) better than I can here, but in brief, before the era of broadband and software as a service, we used to actually _buy_ software, which came in shrink-wrapped boxes. It may have been expensive and the update cycle may have been slow by modern standards, but at least it didn’t spy on us. We used to run it on machines that we owned and controlled, and we used to have control of the software and of the data, too. That all changed with the advent of the Internet and the Web. We subsequently made a Faustian bargain to sell our data, our behavior, and our digital selves in exchange for ostensibly “free” software as a service.
 
@@ -49,7 +49,7 @@ Here are some more examples: Apps that are incredibly slow. Pages that rerender 
 I challenge you to pay really close attention for just one day. Try to notice every time an application you’re using fails to do something, does something frustrating or unexpected, or gets in the way of something you’re trying to do. This isn’t as easy as it sounds. We’ve all become so inured to bad software that we tend not even to notice it. Try this exercise and I guarantee you’ll be surprised.
 
 
-# Digital spaces
+## Digital spaces
 
 We spend a lot of our time in front of screens. The devices, operating systems, and applications we use are effectively the digital spaces where we spend our time. These digital spaces are as important to us now as our physical spaces, and this importance is only going to continue to increase over time.
 
@@ -62,7 +62,7 @@ We’ve been living our entire digital lives in a series of digital hotel rooms�
 Even on the Web, which was designed as a more open platform specifically to make this sort of change easy—a web browser used to be called a “user agent” for a reason, after all—this has become very difficult.[^5] That’s because your web browser doesn’t work for you, it works for the company that made it.[^6]
 
 
-# How did this happen?
+## How did this happen?
 
 How have we come to this? To attempt to do justice to this interesting question would require a separate article, or really, a book.[^7] Over the past twenty years, clever tech firms saw what we wanted, and gave it to us—a case of “be careful what you wish for.” To stretch the prior metaphor a little bit, they gave us ever fancier, ever larger, ever more well-appointed digital hotel rooms, and we ate them up. Nevermind that we never really had any privacy inside of them, or that they were filled with ads and content that we never asked for.
 
@@ -77,7 +77,7 @@ Free sounded too good to be true—who would pass up the chance to move into a f
 To be clear, for most of human history, most people did _not_ have physical spaces they could customize. Many still don’t. The arc of the human story is long, but it bends towards decentralization, personalization, and self-sovereignty. What played out in physical spaces is just beginning to play out in digital spaces.
 
 
-# Why now?
+## Why now?
 
 So what’s changed? Why is now the time to have this conversation? Why are we suddenly capable of reclaiming our digital self-sovereignty, of escaping from the mega-tech-hotel, of taking control of and customizing our spaces, when we’ve been incapable of it for the past few decades?
 
@@ -92,12 +92,12 @@ There are also many more tech savvy people in the world today than there were at
 Finally, while we got off to a slow start, we’ve recently figured out how to organize, finance, build, operate, and govern massive, complex infrastructure, as complex as anything run by the tech giants. The open source movement has picked up considerable pace in recent years, and it’s just getting started. Linux is the first and still the best example of what open source is capable of. Linux did not cause Microsoft, Apple, or Google to go out of business—that was never the intention of the project, and in fact, these firms all rely on Linux to a greater or lesser extent—but it did offer an important, realistic alternative to centralized, closed source, expensive software. Alternatives and consumer choice are powerful because they introduce competition. It’s not immediately obvious how to make money on open source projects and how to make them sustainable, but new business models have emerged and many examples continue to prove that it’s viable. The most interesting, innovative software in the world today is being built by collectives, not corporations.[^8]
 
 
-# What do we do about it?
+## What do we do about it?
 
 Given the untenable situation in which we find ourselves, and the tools and ideas we now have at our disposal, what are some steps we can take today to begin improving things? This could also easily be the subject of its own article or book, but here are a few possible approaches in brief.
 
 
-## Alternative business models
+### Alternative business models
 
 The dominant business model that’s emerged for software is advertising-supported access to software as a service that’s free for the end user, published and hosted by a third party, running as a packaged app or in a web browser. This model clearly works and it should continue to be an option for those, including content producers and consumers, who wish to continue to access digital apps and services for free in exchange for viewing ads and having their data mined.
 
@@ -110,7 +110,7 @@ If Bitcoin has shown us one thing, it’s that radically different business mode
 Novel business models, like all cutting edge innovation, may not make sense at first glance. We should nevertheless keep an open mind, run many experiments, and look for innovation to come out of left field.
 
 
-## There is a big picture
+### There is a big picture
 
 In order to realize a cohesive Web3 vision, lots of disparate ideas need to coalesce and lots of distinct projects need to find a way to fit together. The Web is testament to the power of openness, standards, and collaboration to promote innovation. It emerged precisely at a time when the incumbent tech leaders, firms such as AOL, Microsoft, Compuserve, and Prodigy, were trying to colonize and balkanize the early Internet. The Web exists because of the vision and boldness of organizations like Netscape that chose not to patent the technologies they developed. If Microsoft had had its way and had not faced competition from Netscape (and, later, Apple and Google), the Web would not have been open. Of course in retrospect we can see clearly that an open Web was the right way forward since it led to a singular, standard platform that runs on every device and that’s relatively easy to develop on, which in turn led to an explosion of innovation.
 
@@ -121,7 +121,7 @@ However, we’re seeing the same balkanization of the early days of the Web in s
 At the end of the day, blockchain is just [one primitive of many](/blockchain/web3/software/2020/07/25/whats-it-good-for.html) that will be required to bring Web3 to life. It has an essential role to play, but so do [many other technologies](/blockchain/web3/software/2020/07/25/whats-it-good-for.html#dweb). For those of us working on Web3 technologies, it’s essential that we stay honest and humble. It’s important that we zoom out and understand the larger context of what we’re all working towards and the values that unite us, and of how our piece fits in, rather than becoming hubristic or self-congratulatory. The Internet, the Web, computing and software in general today are far too complex to be dominated by one new technology or one team’s vision. Any comprehensive Web3 vision worth its salt has to account for this diversity and breadth.
 
 
-## Remove complexity
+### Remove complexity
 
 There’s irony in the fact that, while we have more tools at our disposal now than ever before and programming has become much easier than it used to be, the underlying systems have become vastly more complex. Today, there are literally [tens of millions of lines of code](https://youtu.be/kZRE7HIO3vk) sitting between you and the task you want to accomplish. Even something as simple as reading a text file using a web browser probably involves upwards of 100M lines of code when you account for all of the intervening layers and systems. Each of these lines introduces complexity and possible bugs and exploits.
 
@@ -134,7 +134,7 @@ We cannot improve things by adding even more complexity. We need to go back to b
 We need to rethink where we draw abstraction boundaries between hardware and software. Virtualization has an important role to play here. While we probably do need to rethink things from the [ISA](https://en.wikipedia.org/wiki/Instruction_set_architecture) up, we don’t actually need to start with hardware. We can get pretty far with clever virtual machines. Fortunately, the list of technologies starting at the bottom of the stack is growing, which gives me hope. [WebAssembly](https://webassembly.org/) (Wasm), [Urbit](http://urbit.org/), [Nebulet](https://github.com/nebulet/nebulet), and [Arrakis](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-peter_simon.pdf) all reimagine the compute stack from the bottom. Wasm and Urbit, in particular, are already pretty mature and can run many real-world applications. If these ideas succeed, a [Nock](https://urbit.org/docs/tutorials/nock/) or Wasm chip could follow.
 
 
-## Back to basics
+### Back to basics
 
 One of the weaknesses of many Web3 platforms is that they don’t go far enough. Most attempt to address one particular use case or fix one problem. Blockchain, for instance, gives us sovereign money and sort of fixes identity, but has [very little to say](/blockchain/web3/software/2020/07/25/whats-it-good-for.html#dweb) about all of the other things that are wrong with the software stack. It doesn’t even work on mobile, in spite of the fact that the [vast majority](https://www.ben-evans.com/benedictevans/2019/5/28/the-end-of-mobile) of software users in the world today primarily rely on mobile.
 
@@ -143,7 +143,7 @@ Rethinking money and identity is a good start, but it doesn’t go nearly far en
 One project that is taking such a bold, innovative approach, and that has struck this balance well, is [Urbit](http://urbit.org/). Urbit is a radical reimagining and reinvention of the entire software stack, from the very bottom all the way up to the application layer, and everything in between. At the same time, Urbit’s interface today runs in a web browser, and it’s built using proven technologies like C and UNIX. It’s still too edgy and a little too hard to use for mainstream users. That’s okay. You can make everyone happy with a photo sharing app. You can’t make everyone happy with a new virtual machine or compute paradigm. That will come in time.
 
 
-# Towards a vision for human-centric computing
+## Towards a vision for human-centric computing
 
 When they first emerge, all technologies serve a tiny minority of elites. The first book printed on the printing press was the Bible and it was written in a language, Latin, that was legible only to priests. After the masses had gained the ability to read, write, and publish, the emerging mediums of radio and television were subsequently colonized and exploited by governments, countries, and demagogues to their benefit, and to [the detriment of ordinary people](https://en.wikipedia.org/wiki/Volksempf%C3%A4nger). Computing technologies have been no different.
 
