@@ -13,6 +13,9 @@ categories: [blockchain, economics]
 
 {%- include blockchain-nav-top.html -%}
 
+* Table of contents
+{:toc}
+
 ## Introduction
 
 ### Economic virtualization
