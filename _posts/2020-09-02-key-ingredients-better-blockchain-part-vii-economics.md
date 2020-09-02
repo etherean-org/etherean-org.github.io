@@ -2,14 +2,14 @@
 layout:   post
 title:    "The key ingredients to a better blockchain, Part VII: Economics"
 subtitle: "Our understanding of what makes a blockchain successful is becoming clear. What will it take to succeed?"
-image:    /assets/privacy.jpg
+image:    /assets/jude-beck-41uCnC2RDck-unsplash.jpg
 author:   Lane Rettig
 date:     2020-09-02 09:20:00 -0400
 categories: [blockchain, economics]
 ---
-![You are being watched]({{page.image}})
+![Ceramic Piggy Bank]({{page.image}})
 
-<p style="text-align: center"><sub>Wherever you go, there you're watched. Maintaining good privacy can sometimes feel like a losing battle. Fortunately, blockchain technology gives us some tools to fight back. Photo by the author.</sub></p>
+<p style="text-align: center"><sub>Blockchain is to economics what virtualization is to computing: it allows us to run more economic experiments at a much faster pace. It remains to be seen where this experimentation will lead. Photo by <a href="https://unsplash.com/@judebeck?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jude Beck</a> on Unsplash.</sub></p>
 
 {%- include blockchain-nav-top.html -%}
 
