@@ -265,10 +265,6 @@ Because these fields are so new and best practice is just emerging, there’s a 
 
 Just as virtualization in computing enabled a Cambrian explosion of innovation in tech and business, the economic virtualization enabled by blockchain will lead to an explosion of new economic models, ideas, and opportunities. Allowing ordinary community members around the world to have a stake in the ownership and economic upside of a project, as well as a voice in its governance, is a truly novel idea and we don’t yet know what it will enable. It has the potential to redefine the relationship among people, communities, and the tools and projects that they rely on. It’s essential that we keep innovating, experimenting, and iterating upon the economic models and ideas discussed above in order to learn just how powerful these tools are and just what they can enable.
 
-{%- include blockchain-nav-bottom.html -%}
-
-Special thanks to Yael Hoffman for invaluable pre-publication feedback and corrections.
-
 [^1]: Indeed, I would describe an open, general-purpose, programmable blockchain like Ethereum as, fundamentally, a platform for precisely this sort of experimentation.
 
 [^2]: Some examples of economic experiments happening today are [CLR matching](https://gitcoin.co/blog/gitcoin-grants-clr-matching/) on Gitcoin and [CLR fund](https://clr.fund/), the burgeoning #DeFi ecosystem on Ethereum, and the experiments [Zcash](https://zips.z.cash/zip-1014) and [Decred](https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors) are running with common goods funding.
@@ -304,3 +300,7 @@ Special thanks to Yael Hoffman for invaluable pre-publication feedback and corre
 [^17]: Blockchain projects aren’t the only ones who struggle to distribute ownership. Companies in the United States are forbidden from offering shares to anyone who isn’t an employee or investor. This has been a problem for some sharing economy firms, such as Airbnb, which [petitioned the SEC](https://www.documentcloud.org/documents/4917050-Airbnb-Letter-to-the-SEC-09-21-2018.html) to allow it to give company shares to its hosts.
 
 [^18]: Even popular protocols such as Bitcoin are not perfectly incentive compatible due to issues such as [selfish mining](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf).
+
+{%- include blockchain-nav-bottom.html -%}
+
+Special thanks to Yael Hoffman for invaluable pre-publication feedback and corrections.
