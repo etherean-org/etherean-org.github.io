@@ -265,7 +265,7 @@ Because these fields are so new and best practice is just emerging, there’s a 
 
 Just as virtualization in computing enabled a Cambrian explosion of innovation in tech and business, the economic virtualization enabled by blockchain will lead to an explosion of new economic models, ideas, and opportunities. Allowing ordinary community members around the world to have a stake in the ownership and economic upside of a project, as well as a voice in its governance, is a truly novel idea and we don’t yet know what it will enable. It has the potential to redefine the relationship among people, communities, and the tools and projects that they rely on. It’s essential that we keep innovating, experimenting, and iterating upon the economic models and ideas discussed above in order to learn just how powerful these tools are and just what they can enable.
 
-[LINKS to series]
+{%- include blockchain-nav-bottom.html -%}
 
 Special thanks to Yael Hoffman for invaluable pre-publication feedback and corrections.
 
