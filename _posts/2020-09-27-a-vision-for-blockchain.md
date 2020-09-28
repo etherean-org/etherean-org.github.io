@@ -57,7 +57,7 @@ This is my vision for what blockchain, Web3, cryptography, and decentralized tec
 
     Concrete example: Many DAOs and other communities choose to issue community currencies with many different forms of monetary and fiscal policy. Major, widely-accepted cryptocurrencies like bitcoin continue to function as a numeraire, but over time, as these communities mature and expand and trade with other communities, trading leagues and currency blocs form, catering to the needs and values of particular communities. Network users are free to store their assets in whichever currency they prefer, or whichever is most convenient for their use cases.
 
-What’s missing from this list? [Leave a comment](https://forum.etherean.org/t/a-vision-for-blockchain/342) and let me know.
+What’s missing from this list? [Leave a comment](https://forum.etherean.org/t/a-vision-for-blockchain-etherean-org/346) and let me know.
 
 [I’m very grateful to Shahar Sorek and Tomer Afek for invaluable pre-publication feedback.]
 
