@@ -64,17 +64,14 @@ What’s missing from this list? [Leave a comment](https://forum.etherean.org/t/
 ## Notes
 
 [^1]:
-
      The most illustrative recent example is the feud that several developers, most notably [Epic Games](https://techcrunch.com/2020/08/28/apple-terminates-epic-games/), have been having with Apple over the “substantial cut” that Apple takes when apps use its in-app purchase framework. Epic and other developers believe that Apple is [exploiting its “monopoly”](https://techcrunch.com/2020/08/13/epic-games-launches-a-campaign-and-lawsuit-against-apples-app-store/) over the app store and payment processing.
 
 [^2]:
-
      Note that this does not mean that everyone that uses the network needs to be exposed to everything it contains: individual communities are free to sort and filter base layer content however they like. But they should not be able to prevent others from generating, receiving, or accessing transactions and content.
 
 [^3]:
      This is more of an ideal than something achievable in practice. It’s a bit like universal suffrage. In theory, everyone has the right to vote. In practice, disadvantaged communities always have trouble voting: they may not be able to take time off work, they may not have reliable transportation to the polling place, or they may be disenfranchised for a host of other reasons. Access to a network is no different. In some cases, passively guaranteeing access is not enough; we may need to take more active measures to ensure access.
 
 [^4]:
-
      Sources: [Google Now Indexes 620 Million Facebook Groups](https://www.adweek.com/digital/google-now-indexes-620-million-facebook-groups/), [Mark Zuckerberg shifted Facebook’s focus to groups after the 2016 election, and it’s changed how people use the site](https://www.cnbc.com/2020/02/16/zuckerbergs-focus-on-facebook-groups-increases-facebook-engagement.html)
 
