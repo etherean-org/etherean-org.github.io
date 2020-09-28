@@ -55,6 +55,6 @@ What’s missing from this list? Leave a comment [LINK] and let me know.
 
 [^4]:
 
-     Sources: [Google Now Indexes 620 Million Facebook Groups](https://www.adweek.com/digital/google-now-indexes-620-million-facebook-groups/#:~:text=Last%20October%20we%20reported%20that,pages%20Google%20indexes%20of%20eBay.), [Mark Zuckerberg shifted Facebook’s focus to groups after the 2016 election, and it’s changed how people use the site](https://www.cnbc.com/2020/02/16/zuckerbergs-focus-on-facebook-groups-increases-facebook-engagement.html)
+     Sources: [Google Now Indexes 620 Million Facebook Groups](https://www.adweek.com/digital/google-now-indexes-620-million-facebook-groups/), [Mark Zuckerberg shifted Facebook’s focus to groups after the 2016 election, and it’s changed how people use the site](https://www.cnbc.com/2020/02/16/zuckerbergs-focus-on-facebook-groups-increases-facebook-engagement.html)
 
 [I’m very grateful to Shahar Sorek and Tomer Afek for invaluable pre-publication feedback.]
