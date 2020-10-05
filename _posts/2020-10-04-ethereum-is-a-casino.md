@@ -64,7 +64,7 @@ At the same time, we have to escape the savior mindset long endemic in the block
 
 We must support the small number of teams and projects that are doing this important work. And we must start more. There’s no doubt that blockchain and related technologies can move the needle for humanity. But that won't happen automatically. We’re at a crossroads, and we can still steer things in a different, more positive direction—but maybe not for much longer.
 
-Finally, and perhaps most importantly: remember why you started. I’ve written about [why I chose to work on blockchain technology]({% post_url 2020-09-27-a-vision-for-blockchain %}) (and it had nothing to do with building a casino). Why did you start? What’s your vision for what blockchain, cryptocurrency, and Web3 are capable of?
+Finally, and perhaps most importantly: remember why you started. I’ve written about [why I chose to work on blockchain technology]({% post_url 2020-09-27-a-vision-for-blockchain %}) (and it had nothing to do with building a casino). Why did you start? What’s your vision for what blockchain, cryptocurrency, and Web3 are capable of? [Leave a comment](https://forum.etherean.org/t/ethereum-is-a-casino-etherean-org/347) and share your story!
 
 
 ## Notes
