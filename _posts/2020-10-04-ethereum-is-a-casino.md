@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Ethereum is a Casino"
-subtitle: "Ethereum is rapidly becoming a DeFi network, and DeFi feels quite similar to traditional finance in some key ways. What does this mean for the network, the community, and the future of Ethereum?"
+subtitle: "Ethereum is rapidly becoming a DeFi network, and DeFi feels quite similar to traditional finance in important ways. What does this mean for the network, the community, and the future of Ethereum?"
 image:    /assets/carl-raw-fzJPPfBhZ38-unsplash.jpg
 author:   Lane Rettig
 date:     2020-10-04 15:58:00 -0400
@@ -9,7 +9,7 @@ categories: [blockchain, defi, ethereum]
 ---
 ![A man plays slot machines]({{page.image}})
 
-<p style="text-align: center"><sub>A recent explosion of DeFi applications has caused gas prices to soar and made Ethereum all but unusable for anything else. As a result, the network feels more and more like a casino. At a casino, the house always wins. (Photo by <a href="https://unsplash.com/@carltraw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carl Raw</a> on Unsplash.)</sub></p>
+<p style="text-align: center"><sub>A recent explosion of DeFi applications has caused gas prices to soar and made Ethereum all but unusable for anything else. As a result, the network feels more and more like a casino. Remember: at a casino, the house always wins. (Photo by <a href="https://unsplash.com/@carltraw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carl Raw</a> on Unsplash.)</sub></p>
 
 # The Rise of DeFi
 
@@ -70,7 +70,7 @@ Finally, and perhaps most importantly: remember why you started. I’ve written 
 ## Notes
 
 [^1]:
-     By users and volume, past 30 days, including exchanges, DeFi, marketplaces, and applications categorized as “High-Risk”. ([source](https://dappradar.com/rankings/protocol/eth))
+     By both users and volume, past 30 days, including exchanges, DeFi, marketplaces, and applications categorized as “High-Risk.” ([source](https://dappradar.com/rankings/protocol/eth))
 
 [^2]:
      This is not an exaggeration. One recent example, [YAM](https://yam.finance/), was launched on August 11. By the following day, it had attained a market capitalization of around $60M, with over $400M of token deposits. The developers announced a bug in the unaudited code the same day, and its market capitalization collapsed to zero in 35 minutes. ([source](https://coinmetrics.io/the-defi-fee-explosion-how-yams-collapse-drove-ethereum-fees-to-new-heights/))
