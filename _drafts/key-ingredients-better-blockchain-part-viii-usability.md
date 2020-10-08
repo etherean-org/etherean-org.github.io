@@ -2,21 +2,19 @@
 layout:   post
 title:    "The key ingredients to a better blockchain, Part VIII: Usability"
 subtitle: "Our understanding of what makes a blockchain successful is becoming clear. What will it take to succeed?"
-image:    /assets/jude-beck-41uCnC2RDck-unsplash.jpg
+image:    /assets/poptronics-1975-01.jpg
 author:   Lane Rettig
-date:     2020-10-10 12:28:00 -0400
+date:     2020-10-08 12:28:00 -0400
 categories: [blockchain, design, ux]
 ---
-![Ceramic Piggy Bank]({{page.image}})
+![The Altair 8800 on the cover of Popular Electronics, 1975]({{page.image}})
 
-<p style="text-align: center"><sub>Blockchain is to economics what virtualization is to computing: it allows us to run more economic experiments at a much faster pace. It remains to be seen where this experimentation will lead. Photo by <a href="https://unsplash.com/@judebeck?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jude Beck</a> on Unsplash.</sub></p>
+<p style="text-align: center"><sub>The Altair 8800 didn't have great usability by modern standards. Released in 1975, it arrived as a kit that had to be assembled, and could only be programmed and interacted with via a series of switches and lights on the front panel. Nevertheless, as the first commercially successfully personal computer, it's generally regarded as having kickstarted the microcomputer revolution. Blockchain is roughly as usable today as the personal computer was in 1975.</sub></p>
 
 {%- include blockchain-nav-top.html -%}
 
 * Table of contents
 {:toc}
-
-[IMAGE of a first-generation PC like Altair: it was a kit, that you had to build yourself]
 
 ## Introduction
 
@@ -123,11 +121,7 @@ One common approach is sharding: i.e., dividing the blockchain into many smaller
 
 Another approach involves layer two solutions that are not themselves fully-fledged, highly secure base layer blockchains, such as [sidechains](https://ethereum.stackexchange.com/questions/379/what-is-a-sidechain) and [state channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/). The base layer can facilitate these solutions by including certain VM opcodes. As one concrete example, Ethereum’s [CREATE2 opcode](https://ethgasstation.info/blog/what-is-create2/), introduced last year, significantly reduced the cost of opening state channels.
 
-To a large extent, the ability to do interesting things off-chain and at layer two relies upon the existence of robust layer two tooling (on which more in 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "the next section"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[the next section](#heading=h.qcc6bwj7hycl)).
+To a large extent, the ability to do interesting things off-chain and at layer two relies upon the existence of robust layer two tooling (on which more in [the next section](#layer-two-the-application-layer)).
 
 
 ### Mobile support
@@ -138,12 +132,7 @@ This is partly explained by real technical limitations. Blockchain is resource i
 
 One is to make full node software as lightweight as possible. In most existing blockchain platforms, node software is all-or-nothing: you either run a full node or you run nothing (and outsource trust entirely to those that do run nodes). In fact, participating in a blockchain, and in the consensus formation process, is not black and white. There could and should be many shades of gray. The concept of a light client is as old as Bitcoin, but the options for running a light client on mobile are [severely](https://bitcoinmagazine.com/articles/nayuta-launches-hybrid-full-node-spv-mobile-bitcoin-wallet) [limited](https://walleth.org/) even for the most popular blockchains. It would be interesting to see full node software that would run full-throttle on the most powerful systems, but would degrade gracefully to enable it to run on more resource-constrained devices such as mobile phones. Similarly, node software should consume more resources when they are available—such as using more bandwidth when a phone is connected to wifi, and more energy while it’s charging—and switch into a “power nap” mode when they’re not.
 
-Of course, mobile support doesn’t stop at the base layer. It is arguably even more important that it be as easy as possible to run layer two applications on mobile (on which more in 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "the next section"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[the next section](#heading=h.qcc6bwj7hycl)).
-
+Of course, mobile support doesn’t stop at the base layer. It is arguably even more important that it be as easy as possible to run layer two applications on mobile (on which more in [the next section](#layer-two-the-application-layer)).
 
 ### Make transactions faster
 
@@ -151,11 +140,7 @@ In every blockchain, there is a fundamental tradeoff between, on the one hand, t
 
 Each blockchain community will have to do its own research, parameterization, and simulation to choose a block time that isn’t so fast as to sacrifice too much security, but isn’t so slow as to make applications unusable and frustrate users.
 
-Of course, while block time is a crucial factor, user experience at the application layer depends on a lot more than block time. There are other tricks that can be used to improve user experience. Keeping most transactions off the main chain is one of them. More on this, too, in 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "the next section"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[the next section](#heading=h.qcc6bwj7hycl).
+Of course, while block time is a crucial factor, user experience at the application layer depends on a lot more than block time. There are other tricks that can be used to improve user experience. Keeping most transactions off the main chain is one of them. More on this, too, in [the next section](#layer-two-the-application-layer)).
 
 
 ### Make key management easy
@@ -169,7 +154,7 @@ This can be achieved at layer two—witness the pioneering use of [Universal Log
 
 ## Layer two: the application layer
 
-Most of the investment in improving blockchain technology over the past few years has flowed into layer one. This is understandable, since blockchain still faces major hurdles at the base layer including [scalability]({% post_url }), [decentralization]({% post_url 2019-09-15-key-ingredients-better-blockchain-part-ii-decentralization }), and [governance]({% post_url 2020-01-06-key-ingredients-better-blockchain-part-v-governance }). However, as mentioned above, enough progress has been made in overcoming these hurdles at the base layer that the burden of improving usability has begun to shift towards the application layer. The rapid, enormous increase in usability of Web2 applications over the past decade should give us hope that, as blockchain base layer infrastructure continues to mature, we can adopt many of the best practices of Web2, combined with fresh thinking to address challenges unique to Web3, to ensure that Web3 applications are as easy and pleasant to use as their predecessors.
+Most of the investment in improving blockchain technology over the past few years has flowed into layer one. This is understandable, since blockchain still faces major hurdles at the base layer including scalability, [decentralization]({% post_url 2019-09-15-key-ingredients-better-blockchain-part-ii-decentralization %}), and [governance]({% post_url 2020-01-06-key-ingredients-better-blockchain-part-v-governance %}). However, as mentioned above, enough progress has been made in overcoming these hurdles at the base layer that the burden of improving usability has begun to shift towards the application layer. The rapid, enormous increase in usability of Web2 applications over the past decade should give us hope that, as blockchain base layer infrastructure continues to mature, we can adopt many of the best practices of Web2, combined with fresh thinking to address challenges unique to Web3, to ensure that Web3 applications are as easy and pleasant to use as their predecessors.
 
 
 ### Balance usability and decentralization
@@ -211,11 +196,7 @@ Blockchain projects and communities seem to have a penchant for blank slatism, i
 
 There are several reasons for this. The most obvious is the need to reduce friction, make it as easy as possible for new users to onboard, and shrink the [time to value](https://baremetrics.com/academy/time-to-value-ttv) between when a user signs up and when they first experience a “this is amazing!” moment. A second but no less important reason is to give users an experience that feels familiar. Many mainstream users have invested a lot of time and energy in getting familiar with the well-designed, mature tools that they use today and they are not keen to relearn all the basics. This is doubly true for tools that are slower, clumsier, and less user-friendly than the ones they’re used to. A third reason is that good design provably _works_—not only to make life easier for your users, but to increase conversion rates and user stickiness.
 
-The list of usability best practices from Web2 is too long to cover here, but some low hanging fruit that can make a big difference for Web3 applications today include auto-generating accounts and storing them in browser storage (rather than requiring a wallet application such as Metamask—see 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "note above"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[note above](#heading=h.2ru7ok82qrng) about hosted wallets and progressive security), displaying readable names wherever possible rather than the long hexadecimal numbers that are commonly used to display account addresses, and promoting mobile first. As much as possible, make it possible for users and developers to continue using the tools, applications, and frameworks they’re already familiar with. For a treasure trove of other good ideas, see the excellent [Web3 Design Principles](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1).
+The list of usability best practices from Web2 is too long to cover here, but some low hanging fruit that can make a big difference for Web3 applications today include auto-generating accounts and storing them in browser storage (rather than requiring a wallet application such as Metamask—see [note above](#make-key-management-easy) about hosted wallets and progressive security), displaying readable names wherever possible rather than the long hexadecimal numbers that are commonly used to display account addresses, and promoting mobile first. As much as possible, make it possible for users and developers to continue using the tools, applications, and frameworks they’re already familiar with. For a treasure trove of other good ideas, see the excellent [Web3 Design Principles](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1).
 
 
 ## Conclusion
