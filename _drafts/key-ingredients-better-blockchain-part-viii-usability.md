@@ -181,7 +181,12 @@ Developing good tooling isn’t cheap, but it’s a worthwhile investment and ca
 
 ### Hide the details
 
-[IMAGE of e.g. Metamask simple/advanced transaction screen, with sensible defaults for gas]
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="/assets/metamask1.png" alt="Basic send transactions screen in Metamask" style="max-width: 45%; margin: 5px"/>
+  <img src="/assets/metamask2.png" alt="Advanced transaction settings in Metamask" style="max-width: 45%; margin: 5px"/>
+</div>
+
+<p style="text-align: center"><sub>Metamask, one of the most popular Ethereum wallets, does a great job of hiding the details: by default it picks a reasonable gas price for you, but you can also customize the gas price when sending a new transaction. Would that gas were still this cheap! (<a href="https://metamask.zendesk.com/hc/en-us/articles/360015488771-How-to-Adjust-Gas-Price-and-Gas-Limit-">Image source</a>)</sub></p>
 
 Blockchain is a complex technology, and one reason that it has failed to achieve mainstream appeal is the way in which that complexity surfaces very quickly during onboarding, when making even basic transactions, and when building and interacting with applications.
 
