@@ -4,12 +4,12 @@ title:    "The key ingredients to a better blockchain, Part VIII: Usability"
 subtitle: "Our understanding of what makes a blockchain successful is becoming clear. What will it take to succeed?"
 image:    /assets/poptronics-1975-01.jpg
 author:   Lane Rettig
-date:     2020-10-08 12:28:00 -0400
+date:     2020-10-17 18:38:00 -0400
 categories: [blockchain, design, ux]
 ---
 ![The Altair 8800 on the cover of Popular Electronics, 1975]({{page.image}})
 
-<p style="text-align: center"><sub>The Altair 8800 didn't have great usability by modern standards. Released in 1975, it arrived as a kit that had to be assembled, and could only be programmed and interacted with via a series of switches and lights on the front panel. Nevertheless, as the first commercially successfully personal computer, it's generally regarded as having kickstarted the microcomputer revolution. Blockchain is roughly as usable today as the personal computer was in 1975.</sub></p>
+<p style="text-align: center"><sub>The Altair 8800 didn't have great usability by modern standards. Released in 1975, it arrived as a kit that had to be assembled, and could only be programmed and interacted with via a series of switches and lights on the front panel. Nevertheless, as the first commercially successfully personal computer, it's generally regarded as having kickstarted the microcomputer revolution. Blockchain is roughly as usable today as the personal computer was in 1975, but it's improving by leaps and bounds.</sub></p>
 
 {%- include blockchain-nav-top.html -%}
 
@@ -18,13 +18,13 @@ categories: [blockchain, design, ux]
 
 ## Introduction
 
-In 1975, at the [advent of the personal computing revolution](https://worldradiohistory.com/Archive-Poptronics/70s/1975/Poptronics-1975-01.pdf), to be a computer user effectively meant being a software developer. That was okay in the beginning, as all technologies begin this way. Needless to say we’ve come a long way since then. Billions of people now carry supercomputers in their pockets that require no special expertise to use, and many of our daily activities involve using computers without our even realizing.
+In 1975, at the [advent of the personal computing revolution](https://worldradiohistory.com/Archive-Poptronics/70s/1975/Poptronics-1975-01.pdf), to be a computer user effectively meant that you had to be a software developer. That was okay in the beginning, as all technologies begin this way. Needless to say we’ve come a long way since then. Billions of people now carry supercomputers in their pockets that require no special expertise to use, and many of our daily activities involve using computers without our even realizing.
 
-If you ask me, in terms of the technology lifecycle, blockchain today is somewhere around where personal computing was in the mid to late seventies. It’s proven that it is useful and it holds great potential, but it’s still notoriously hard to use. Until recently, this was due mostly to limitations in the base layer: even the best UX can’t make up for severely limited transaction throughput! To put this in terms of personal computing, no application, no matter how fancy, could make up for the need to swap multiple floppy disks in and out in order to overcome the limitations on storage and memory of computers at the time.
+If you ask me, in terms of the technology lifecycle, blockchain today is about where personal computing was in the mid to late seventies. It’s proven that it is useful and it holds great potential, but it’s still notoriously hard to use. Until recently, this was due mostly to limitations in the base layer: even the best UX can’t make up for severely limited transaction throughput! To put this in terms of personal computing, no application, no matter how fancy, could make up for the need to swap multiple floppy disks in and out in order to overcome the limitations on storage and memory of early personal computers.
 
 However, the blockchain base layer has come a long way the past few years, and many of these initial, technical challenges have been overcome. Usability lags somewhere behind. While the blockchain space has no shortage of brilliant technical minds, in relative terms there has been a lack of focus on product and design. This has begun to change, and modern blockchain platforms and the tooling built on top of them have begun to incorporate many of the same design best practices that have permeated the Web2 world.
 
-A few years ago it was okay if a blockchain platform was not user friendly and had terrible tooling, and if building an application was next to impossible, because the few users of these platforms were technically sophisticated hobbyists with time on their hands. Until quite recently, it was common for even the largest blockchain teams not to have even a single designer. This is no longer the case. Modern blockchain platforms now need to prioritize usability if they want to stand a chance against competing Web2 and Web3 platforms.
+A few years ago it was okay if a blockchain platform was not user friendly and had terrible tooling, and if building an application was next to impossible, because the few users of these platforms were technically sophisticated hobbyists with time on their hands. Until quite recently, it was common for even the largest blockchain teams not to have any designers. This is no longer the case. Modern blockchain platforms now need to prioritize usability if they want to stand a chance against competing Web2 and Web3 platforms.
 
 How can a blockchain platform prioritize usability? Here are some ideas to consider now to stay ahead of the game. As these ideas touch every layer of the stack, from the social layer (“Layer zero”) to the blockchain base layer (“Layer one”) up through the application layer (“Layer two”), we’ll examine each in turn.
 
@@ -64,7 +64,7 @@ To see what’s possible with good documentation, see the [Stripe API docs](http
 
 Developers can and often do get software from zero to one, i.e., from concept to a workable prototype. However, if you want your software to be usable and approachable, especially to non-technical users, you’ll need to enlist the help of a professional designer.
 
-In spite of this truism, it’s remarkable how many large, well-funded blockchain platforms have few or no designers on the core team. Getting designers involved early in the core design and development process can help avoid pitfalls and result in a much more user-friendly platform. Usability has a surprising number of implications on the design of even the base layer (layer one). As just one example, the fact that Ethereum requires that gas be paid using ETH, and that the transaction processing capacity of the network cannot be scaled up or down, has serious implications on the UX of any application built on the platform. All users of layer two applications must already hold ETH even if the application uses a different token, and the amount they need is unpredictable and varies depending on network load. This is counterintuitive to many users since the status of the overall Ethereum network has no obvious, direct connection to the application the user is interacting with.
+In spite of this truism, it’s remarkable how many large, well-funded blockchain platforms have few or no designers on the core team. Getting designers involved early in the core design and development process can help avoid pitfalls and result in a much more user-friendly platform. Usability has a surprising number of implications on the design of even the base layer (layer one). As just one example, the fact that Ethereum requires that gas be paid using ETH, and that the transaction processing capacity of the network cannot be scaled up or down, has serious implications on the UX of any application built on the platform. All users of layer two applications must already hold ETH even if those applications use a different token, and the amount they need is unpredictable and varies depending on network load. This is counterintuitive to many users since the status of the overall Ethereum network may have no obvious, direct connection to the application the user is interacting with.
 
 Note that there are many different kinds of design, and you should carefully hire a designer or agency on the basis of your needs and their skills. The two most critical types of design for most digital products are visual design and user experience (UX) design. It’s rare to find a designer that is well-versed and skilled in both, so it’s safest to hire for these separately.
 
@@ -186,7 +186,7 @@ Developing good tooling isn’t cheap, but it’s a worthwhile investment and ca
   <img src="/assets/metamask2.png" alt="Advanced transaction settings in Metamask" style="max-width: 45%; margin: 5px"/>
 </div>
 
-<p style="text-align: center"><sub>Metamask, one of the most popular Ethereum wallets, does a great job of hiding the details: by default it picks a reasonable gas price for you, but you can also customize the gas price when sending a new transaction. Would that gas were still this cheap! (<a href="https://metamask.zendesk.com/hc/en-us/articles/360015488771-How-to-Adjust-Gas-Price-and-Gas-Limit-">Image source</a>)</sub></p>
+<p style="text-align: center"><sub>Metamask, one of the most popular Ethereum wallets, does a great job of hiding the details: by default it picks a reasonable gas price for you, but you can also customize the gas price when sending a new transaction. Would that gas were always this cheap! (<a href="https://metamask.zendesk.com/hc/en-us/articles/360015488771-How-to-Adjust-Gas-Price-and-Gas-Limit-">Image source</a>)</sub></p>
 
 Blockchain is a complex technology, and one reason that it has failed to achieve mainstream appeal is the way in which that complexity surfaces very quickly during onboarding, when making even basic transactions, and when building and interacting with applications.
 
