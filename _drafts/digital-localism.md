@@ -2,14 +2,14 @@
 layout:   post
 title:    "Digital localism"
 subtitle: "The world is becoming more connected, more global, and more digital every day. These trends have already begun to turn society upside down, and they cannot be stopped. We're running out of time to respond to them."
-image:    /assets/poptronics-1975-01.jpg
+image:    /assets/vishal-vasnani-0aVsXiFvikg-unsplash.jpg
 author:   Lane Rettig
 date:     2020-10-29 15:20:00 -0400
 categories: [society, technology]
 ---
-![The Altair 8800 on the cover of Popular Electronics, 1975]({{page.image}})
+![A street art poster of an artist wearing VR goggles]({{page.image}})
 
-<p style="text-align: center"><sub>The Altair 8800 didn't have great usability by modern standards. Released in 1975, it arrived as a kit that had to be assembled, and could only be programmed and interacted with via a series of switches and lights on the front panel. Nevertheless, as the first commercially successfully personal computer, it's generally regarded as having kickstarted the microcomputer revolution. Blockchain is roughly as usable today as the personal computer was in 1975, but it's improving by leaps and bounds.</sub></p>
+<p style="text-align: center"><sub>For many people, the contrast between our local, analog lives and our global, digital lives is already the source of no small amount of cognitive dissonance. This is only bound to increase as these trends pick up pace. (Photo by <a href="https://unsplash.com/@vishal9950?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Vishal Vasnani</a> on Unsplash)</sub></p>
 
 
 Humanity faces a number of huge, novel challenges that must be addressed over the next generation. These include increasing inequality, the rise of populism, growing dissatisfaction with democracy and capitalism, climate change, and balancing individual rights and social cohesion. There are two other huge issues we face that don’t get as much attention as politics and climate change but are no less important. They’re distinct but related in that they’re both the product of modern technology.
