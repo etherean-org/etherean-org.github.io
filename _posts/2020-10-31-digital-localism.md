@@ -42,4 +42,4 @@ As we look for answers, a good starting point is redefining civic engagement for
 
 All of these questions are deeply important and interesting, and none of them has an easy answer. I intend to think long and hard about them in the coming days and weeks, and to turn to those who have been thinking about them much longer than I have for guidance. I hope to share what I learn here and elsewhere.
 
-I’m curious to hear your thoughts, too! Which path do you think we should pursue? Are there other possibilities I’ve failed to mention? What other questions should we consider? Please share your thoughts and ideas in the comments and on [the forum](https://forum.etherean.org/).
+I’m curious to hear your thoughts, too! Which path do you think we should pursue? Are there other possibilities I’ve failed to mention? What other questions should we consider? Please share your thoughts and ideas [in the comments](https://forum.etherean.org/t/digital-localism-etherean-org/352) and on [the forum](https://forum.etherean.org/).
