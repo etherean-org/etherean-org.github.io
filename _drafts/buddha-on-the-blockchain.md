@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    Buddha on the Blockchain
-subtitle: Blockchain has piqued my interest in a variety of non-technical topics, from finance and economics to political philosophy, sociology, and anthropology. I’ve heard blockchain compared to religion many times before, but I never took the comparison seriously until recently, when something I read in a course on Buddhism caught my eye. Blockchain and religion have more in common than I thought. Maybe there’s something we can learn from the world’s most successful religions.
+subtitle: Blockchain and religion have more in common than I thought. Maybe there’s something we can learn from the world’s most successful religions.
 image:    /assets/luca-santos-rIjXKaqPmeE-unsplash.jpg
 author:   Lane Rettig
 date:     2020-10-31 15:11:00 -0400
@@ -12,7 +12,10 @@ categories: [society, consensus, blockchain]
 <p style="text-align: center"><sub>It turns out that carving things into stone is a pretty good way to preserve the canonical truth. But first you have to agree on the truth, which isn't so straightforward. (Photo by <a href="https://unsplash.com/@luca_saint?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luca Santos</a> on Unsplash)</sub></p>
 
 
-> "When many voices shout at once / None considers himself a fool; / Though the Sangha is being split / None thinks himself to be at fault." - Buddha, Mv.X.3.2
+> When many voices shout at once
+> None considers himself a fool;
+> Though the Sangha is being split
+> None thinks himself to be at fault. - Buddha, Mv.X.3.2
 
 Consensus is something we talk a lot about in the blockchain space. We tend to talk about it in the context of state and transactions: a blockchain is an engine that allows many untrusted systems to agree on things like [the order of transactions and the state of a ledger]({% post_url 2020-07-25-whats-it-good-for %}). Of course, the idea of consensus is much older than blockchain, the Internet, and computers. If we really want to understand blockchain and why it’s such an important technology, a good place to start is by understanding consensus on both a technical and social level.
 
