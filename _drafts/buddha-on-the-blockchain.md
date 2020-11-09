@@ -5,7 +5,7 @@ subtitle: Blockchain has piqued my interest in a variety of non-technical topics
 image:    /assets/luca-santos-rIjXKaqPmeE-unsplash.jpg
 author:   Lane Rettig
 date:     2020-10-31 15:11:00 -0400
-categories: [society, buddhism, religion, consensus, blockchain]
+categories: [society, consensus, blockchain]
 ---
 ![Greyscale picture of a Buddha statue]({{page.image}})
 
