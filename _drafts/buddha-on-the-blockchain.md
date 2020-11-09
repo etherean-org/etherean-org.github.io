@@ -2,14 +2,14 @@
 layout:   post
 title:    Buddha on the Blockchain
 subtitle: Blockchain has piqued my interest in a variety of non-technical topics, from finance and economics to political philosophy, sociology, and anthropology. I’ve heard blockchain compared to religion many times before, but I never took the comparison seriously until recently, when something I read in a course on Buddhism caught my eye. Blockchain and religion have more in common than I thought. Maybe there’s something we can learn from the world’s most successful religions.
-image:    /assets/vishal-vasnani-0aVsXiFvikg-unsplash.jpg
+image:    /assets/luca-santos-rIjXKaqPmeE-unsplash.jpg
 author:   Lane Rettig
 date:     2020-10-31 15:11:00 -0400
-categories: [society, buddhism, religion]
+categories: [society, buddhism, religion, consensus, blockchain]
 ---
-![A street art poster of an artist wearing VR goggles]({{page.image}})
+![Greyscale picture of a Buddha statue]({{page.image}})
 
-<p style="text-align: center"><sub>For many people, the contrast between our local, analog lives and our global, digital lives is already the source of no small amount of cognitive dissonance. This is only bound to increase as these trends pick up pace. (Photo by <a href="https://unsplash.com/@vishal9950?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Vishal Vasnani</a> on Unsplash)</sub></p>
+<p style="text-align: center"><sub>It turns out that carving things into stone is a pretty good way to preserve the canonical truth. But first you have to agree on the truth, which isn't so straightforward. (Photo by <a href="https://unsplash.com/@luca_saint?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luca Santos</a> on Unsplash)</sub></p>
 
 
 > "When many voices shout at once / None considers himself a fool; / Though the Sangha is being split / None thinks himself to be at fault." - Buddha, Mv.X.3.2
@@ -84,7 +84,7 @@ Reaching consensus and maintaining consistency today is facilitated by technolog
 
 It achieved this feat using an old but remarkably robust technology: putting everyone in a room together from time to time. Actually, it was a cave: starting three months after the death of the Buddha, the international [Theravāda](https://en.wikipedia.org/wiki/Theravada) community has met every so often to come to consensus on a number of important points of doctrine, the most important of which is the contents of the canon, i.e., the protocol. Six times over the past 2500 years, a group of hundreds or thousands of senior monks have met and recited the canon in its entirety. This process can take as long as nine months as the canon is 20,000 pages long and all of the monks must chant every word. It ends when the monks agree unanimously on the contents:
 
-> These collective recitations which were performed by the monks at all these Dhamma Councils are known as the `Dhamma Saṅgītis', the Dhamma Recitations. They are so designated because of the precedent set at the First Dhamma Council, when all the Teachings were recited first by an Elder of the Saṅgha and then chanted once again in chorus by all of the monks attending the assembly. The recitation was judged to have been authentic, when and only when, it had been approved unanimously by the members of the Council ([Chaṭṭha Saṅgāyana, The Six Dhamma Councils](https://www.tipitaka.org/chattha))
+> These collective recitations which were performed by the monks at all these Dhamma Councils are known as the 'Dhamma Saṅgītis', the Dhamma Recitations. They are so designated because of the precedent set at the First Dhamma Council, when all the Teachings were recited first by an Elder of the Saṅgha and then chanted once again in chorus by all of the monks attending the assembly. The recitation was judged to have been authentic, when and only when, it had been approved unanimously by the members of the Council ([Chaṭṭha Saṅgāyana, The Six Dhamma Councils](https://www.tipitaka.org/chattha))
 
 The most recent such council occurred in 1954 in Myanmar. The final product of that council is available [on the Web](https://www.tipitaka.org/), but previous councils used older technologies to record and disseminate the resultant canon. After the council of 1871, the entire canon was carved into [730 enormous marble slabs](https://en.wikipedia.org/wiki/Tripi%E1%B9%ADaka_tablets_at_Kuthodaw_Pagoda) that are still on display in a Burmese pagoda. What more permanent way is there to record canonical truth than to literally carve it into stone and put it on public display? And the fact that the canon was divided into 730 contiguous stone blocks is the icing on the cake to fans of blockchain.
 
