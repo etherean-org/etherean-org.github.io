@@ -4,7 +4,7 @@ title:    Buddha on the Blockchain
 subtitle: Blockchain and religion have more in common than I thought. Maybe there’s something we can learn from the world’s most successful religions.
 image:    /assets/luca-santos-rIjXKaqPmeE-unsplash.jpg
 author:   Lane Rettig
-date:     2020-10-31 15:11:00 -0400
+date:     2020-11-09 14:16:00 -0800
 categories: [society, consensus, blockchain]
 ---
 ![Greyscale picture of a Buddha statue]({{page.image}})
