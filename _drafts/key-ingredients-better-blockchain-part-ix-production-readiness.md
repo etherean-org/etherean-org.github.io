@@ -2,14 +2,14 @@
 layout:   post
 title:    "The key ingredients to a better blockchain, Part IX: Production Readiness"
 subtitle: "Our understanding of what makes a blockchain successful is becoming clear. What will it take to succeed?"
-image:    /assets/poptronics-1975-01.jpg
+image:    /assets/hello-i-m-nik-8yCmQODY2SY-unsplash.jpg
 author:   Lane Rettig
 date:     2020-11-12 13:26:00 -0500
 categories: [blockchain, governance, community]
 ---
-![The Altair 8800 on the cover of Popular Electronics, 1975]({{page.image}})
+![Lego Firework Guy]({{page.image}})
 
-<p style="text-align: center"><sub>The Altair 8800 didn't have great usability by modern standards. Released in 1975, it arrived as a kit that had to be assembled, and could only be programmed and interacted with via a series of switches and lights on the front panel. Nevertheless, as the first commercially successfully personal computer, it's generally regarded as having kickstarted the microcomputer revolution. Blockchain is roughly as usable today as the personal computer was in 1975, but it's improving by leaps and bounds.</sub></p>
+<p style="text-align: center"><sub>The launch of a new network is the most exciting and rewarding moment in the lifecycle of a project, but it's also one of the trickiest to prepare for. Rather than a big bang, it's good to start preparing early. (Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hello I'm Nik</a> on Unsplash.)</sub></p>
 
 {%- include blockchain-nav-top.html -%}
 
@@ -134,11 +134,7 @@ As with a second client implementation, there are many ways to develop a fronten
 
 ## Tooling
 
-As discussed previously in Usability [LINK], good tooling can make all the difference for both developers and users. Users rely on tools such as block explorers and wallet/key management software. Developers rely on tools for building, testing, deploying, and maintaining smart contracts, running and monitoring node software, communicating with a running node, and testing and interacting with 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "the API"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[the API](#heading=h.k7xq8hlc2tne). They also rely on frameworks and SDKs that facilitate reading data and submitting transactions for building higher level applications. The better and more mature the tooling, the better the UX and developer experience it enables and the easier it is to build mature, usable applications on top of the blockchain. A blockchain that makes it very difficult to develop usable applications is not one that’s ready for production! For all of these reasons, tooling should not be an afterthought and its design and development should be prioritized alongside node software, frontend, and API.
+As discussed previously in Usability [LINK], good tooling can make all the difference for both developers and users. Users rely on tools such as block explorers and wallet/key management software. Developers rely on tools for building, testing, deploying, and maintaining smart contracts, running and monitoring node software, communicating with a running node, and testing and interacting with [the API](#api). They also rely on frameworks and SDKs that facilitate reading data and submitting transactions for building higher level applications. The better and more mature the tooling, the better the UX and developer experience it enables and the easier it is to build mature, usable applications on top of the blockchain. A blockchain that makes it very difficult to develop usable applications is not one that’s ready for production! For all of these reasons, tooling should not be an afterthought and its design and development should be prioritized alongside node software, frontend, and API.
 
 
 ## Community channels
@@ -175,19 +171,11 @@ Also bear in mind that different jurisdictions have different rules regarding tr
 
 ## Governance
 
-As 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "discussed above"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[discussed above](#heading=h.c9hifcjws9t3), in the early days, changing the software or even the protocol itself is typically a decision that’s in the hands of a small number of core developers. As a project transitions into production, however, making changes naturally becomes more burdensome. This is by design since a production network has a much larger set of stakeholders and an installed user base, and any changes post-genesis should take into consideration the concerns of active stakeholders—if not potential, future stakeholders as well. The process of understanding the needs of diverse stakeholders and negotiating whether, when, and how to include them in the release, update, and maintenance process is governance. Governance becomes necessary the moment a network goes live in production, and while it’s less critical prior to this point, there’s lots of groundwork that can be laid early on. It’s a good idea to start early because governance only becomes more difficult over time as the number and diversity of stakeholders and the amount at stake grows.
+As [discussed above](#regular-releases), in the early days, changing the software or even the protocol itself is typically a decision that’s in the hands of a small number of core developers. As a project transitions into production, however, making changes naturally becomes more burdensome. This is by design since a production network has a much larger set of stakeholders and an installed user base, and any changes post-genesis should take into consideration the concerns of active stakeholders—if not potential, future stakeholders as well. The process of understanding the needs of diverse stakeholders and negotiating whether, when, and how to include them in the release, update, and maintenance process is governance. Governance becomes necessary the moment a network goes live in production, and while it’s less critical prior to this point, there’s lots of groundwork that can be laid early on. It’s a good idea to start early because governance only becomes more difficult over time as the number and diversity of stakeholders and the amount at stake grows.
 
 Some basic principles of good governance are clear delineation of roles, responsibilities, and accountability processes so that stakeholders can see clearly how decisions are being made and know whom to hold accountable for those decisions. Additionally, changes should be communicated well ahead of time, and stakeholders should know how to weigh in and participate in the decision-making process. Records of the process, such as recordings of calls or chat transcripts, should be made available indefinitely to the public, or at least to network stakeholders. This is true for technical as well as for non-technical changes, such as those that impact economics. All stakeholders should be aware of various economic policies [LINK to Economics] that may impact them, how and when those policies may change, and how they can communicate their needs, propose ideas, and participate in the decision-making process.
 
-As 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "discussed above"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[discussed above](#heading=h.5ze3t5kp3lb), it’s important that there be clear, official, established channels for communicating about and coordinating upgrades, bugfixes, and responses to security incidents. This may involve roles such as core developers, security officers, community/communication managers, a technical steering committee responsible for setting the overall roadmap, and representatives of essential constituencies such as miners, validators, exchanges, and node operators. All of this takes time to design, build, and launch, so you should begin the process early to be ready in time for mainnet.
+As [discussed above](#identifying-and-responding-to-bugs-and-vulnerabilities), it’s important that there be clear, official, established channels for communicating about and coordinating upgrades, bugfixes, and responses to security incidents. This may involve roles such as core developers, security officers, community/communication managers, a technical steering committee responsible for setting the overall roadmap, and representatives of essential constituencies such as miners, validators, exchanges, and node operators. All of this takes time to design, build, and launch, so you should begin the process early to be ready in time for mainnet.
 
 Lastly, the value of a clear roadmap and strong leadership cannot be overstated. One of the greatest risks of decentralization is a lack of strong leadership. This can lead to a lack of direction, like a row boat where everyone is working hard but [rowing in different directions](https://youtu.be/uooGLTHdT8Q?t=17). Early in the project lifecycle, up to and including the launch of a mainnet, and before the project achieves stability and maturity, strong, centralized leadership can be helpful. It simplifies communication and coordination and allows the team to respond quickly when things go wrong. Over time, as a platform and community mature, it makes sense to give more agency and authority to the community and to remove the core team as a single point of failure.
 
