@@ -4,7 +4,7 @@ title:    "The key ingredients to a better blockchain, Part IX: Production Readi
 subtitle: "Our understanding of what makes a blockchain successful is becoming clear. What will it take to succeed?"
 image:    /assets/hello-i-m-nik-8yCmQODY2SY-unsplash.jpg
 author:   Lane Rettig
-date:     2020-11-14 13:22:00 -0500
+date:     2020-11-15 13:22:00 -0500
 categories: [blockchain, governance, community]
 ---
 ![Lego Firework Guy]({{page.image}})
