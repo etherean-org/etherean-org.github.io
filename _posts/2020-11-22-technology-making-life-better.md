@@ -75,7 +75,7 @@ On the other hand, my experience with other types of sharing economy and on-dema
 We should be mindful of the fact that the experience is [not always as good for the providers](https://www.theguardian.com/us-news/2019/mar/22/uber-lyft-ipo-drivers-unionize-low-pay-expenses) as the platforms would have us believe. Sharing economy services have definitely made life easier for me and I’m hopeful that we can find a way to make them sustainably beneficial for both services providers and consumers.
 
 
-## Honorable mentions
+## Honorable Mention
 
 I want to briefly mention a few other technologies that haven’t had a large, direct impact on my life but that have had an indirect impact and/or stand to do so in the foreseeable future.
 
@@ -100,7 +100,7 @@ Life sciences, from minimally-invasive surgery to implants to cancer treatments 
 Unless you work in manufacturing, supply chain, or e-commerce, this is another example of an enabling technology that invisibly powers much of the modern economy. Companies that manufactured and sold consumer goods, from toaster ovens to cars to computers, used to need to manage large inventories and big, expensive warehouses. Over the past few decades, better communications, software, and logistics networks have enabled these firms to outsource manufacturing and optimize their supply chains. This makes consumer goods much cheaper and allows us to receive them much more quickly—and leads to shortages in times of excess demand, like [right now](https://www.cidrap.umn.edu/covid-19/supply-chain-issues).
 
 
-### What else?
+### What Else?
 
 What about all of the other fancy technology that’s been developed during my lifetime? What about electric and self-driving cars, AI and machine learning, VR, and 3D printing? In their present form, these all feel like “nice to haves,” and none has had a big, direct impact on my life so far. This isn’t to say that they won’t have a bigger impact as they mature!
 
