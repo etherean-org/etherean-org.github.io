@@ -1,15 +1,15 @@
 ---
 layout:   post
-title:    Is Technology Making Life Better?
-subtitle: I used to naively feel that more technology is always good. It's time to take a closer look and see what sort of concrete impact modern technology is having on my life.
-image:    /assets/luca-santos-rIjXKaqPmeE-unsplash.jpg
+title:    A Better Life
+subtitle: I used to believe that more technology is always good. Recently, I'm not so sure. Is modern technology really making our lives better?
+image:    /assets/h-heyerlein-riYdn15o96U-unsplash.jpg
 author:   Lane Rettig
 date:     2020-11-22 14:16:00 -0800
 categories: [communication, health, technology]
 ---
-![Greyscale picture of a Buddha statue]({{page.image}})
+![Blacklight and colored dots illuminate a face]({{page.image}})
 
-<p style="text-align: center"><sub>It turns out that carving things into stone is a pretty good way to preserve the canonical truth. But first you have to agree on the truth, which isn't so straightforward. (Photo by <a href="https://unsplash.com/@luca_saint?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luca Santos</a> on Unsplash)</sub></p>
+<p style="text-align: center"><sub>Technology is getting closer and closer to us, literally and figuratively. It touches our lives in progressively deeper and more intimate ways. How should we feel about this? (Photo by <a href="https://unsplash.com/@heyerlein?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">h heyerlein</a> on Unsplash)</sub></p>
 
 
 ## Introduction
