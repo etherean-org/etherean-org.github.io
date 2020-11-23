@@ -113,4 +113,4 @@ Has technology made my life better overall? I think the answer is a reserved “
 
 As we design, build, and use more and more powerful technology, it’s critical that we consider not only theoretical applications and implications but also the concrete, lived experience of interacting with that technology. Only in this way can we ensure that it does as much good and as little harm as possible.
 
-What concrete impact has technology had on your life? Do you feel that it’s made your life better in concrete ways? Leave a comment [LINK] and let me know how.
+What concrete impact has technology had on your life? Do you feel that it’s made your life better in concrete ways? [Leave a comment](https://forum.etherean.org/t/a-better-life-etherean-org/357) and let me know how.
