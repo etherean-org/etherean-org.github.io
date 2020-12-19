@@ -4,7 +4,7 @@ title:    "The key ingredients to a better blockchain, Part X: Sustainability"
 subtitle: "Our understanding of what makes a blockchain successful is becoming clear. What will it take to succeed?"
 image:    /assets/hello-i-m-nik-8yCmQODY2SY-unsplash.jpg
 author:   Lane Rettig
-date:     2020-12-20 16:48:00 -0500
+date:     2020-12-19 16:48:00 -0500
 categories: [blockchain, economics, governance]
 ---
 ![Lego Firework Guy]({{page.image}})
@@ -37,12 +37,12 @@ However, there are limits to the amount of inflation that’s acceptable and sus
 
 Paying for public goods such as security and R&D through inflation means redistributing intrinsic capital (i.e., capital that is already present within the network): for instance, paying a subsidy to miners redistributes value away from all other tokenholders to fund security. In order for a network to continue to grow and develop, it also needs to attract extrinsic capital (i.e., capital that’s currently deployed elsewhere). One signal this is happening is appreciation of the value of a network’s token against benchmarks like USD or BTC. In the best case scenario, the value of the network token will gradually appreciate so that less issuance is necessary to sustain a given level of real public spending.
 
-The question of how to attract extrinsic capital to a project is thorny and beyond the scope of this article, but a good starting point is to clearly articulate what a project stands for, and to put in place inclusive economic policies and institutions. For more on this topic, see [Economics]({% post_url 2020-09-02-key-ingredients-better-blockchain-part-vii-economics }) and [To Share or Not to Share]({% post_url 2020-05-02-to-share-or-not-to-share }).
+The question of how to attract extrinsic capital to a project is thorny and beyond the scope of this article, but a good starting point is to clearly articulate what a project stands for, and to put in place inclusive economic policies and institutions. For more on this topic, see [Economics]({% post_url 2020-09-02-key-ingredients-better-blockchain-part-vii-economics %}) and [To Share or Not to Share]({% post_url 2020-05-02-to-share-or-not-to-share %}).
 
 
 ## Onboarding and Enfranchisement
 
-Openness is not a priority for every project. Some projects are intended to have niche appeal, only solicit contributions from big companies, or otherwise want to limit the number of stakeholders. Given that decentralization and permissionlessness are central to blockchain technology and [the things it enables]({%post_url 2020-09-27-a-vision-for-blockchain }), however, openness is highly valued by many blockchain projects and communities.
+Openness is not a priority for every project. Some projects are intended to have niche appeal, only solicit contributions from big companies, or otherwise want to limit the number of stakeholders. Given that decentralization and permissionlessness are central to blockchain technology and [the things it enables]({%post_url 2020-09-27-a-vision-for-blockchain %}), however, openness is highly valued by many blockchain projects and communities.
 
 Projects that do value openness and intend to have broad appeal should take steps to be as open as possible to new contributors, users, and other community members and stakeholders for as long as possible. It’s critical to understand that openness is not a default state of a project and doesn’t come for free. On the contrary, as projects mature, as more stakeholders appear, and as the stakes increase, early stakeholders and those in positions of influence naturally tend to take advantage of those positions, an economic phenomenon known as [rent-seeking](https://en.wikipedia.org/wiki/Rent-seeking). In the process, projects tend to become less welcoming towards new arrivals. It takes a great deal of self awareness, foresight, planning, and hard work to prevent this from happening and “lock the door open” to newcomers.[^1]
 
@@ -66,11 +66,7 @@ Governance is of course complex and thorny and there is no single model appropri
 
 ## Avoiding Capture
 
-When determining how to govern a blockchain, one of the first and most important questions to contemplate is, who is this blockchain for? As 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "discussed above"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[discussed above](#heading=h.67p0nmjlqa30), some projects are intended for the use and benefit of a niche group, such as a consortium of companies, while others have more ambitious aims and regard themselves as truly public and open, designed for anyone, anywhere to use, and to be used to host a wide variety of applications.
+When determining how to govern a blockchain, one of the first and most important questions to contemplate is, who is this blockchain for? As [discussed above](#onboarding-and-enfranchisement), some projects are intended for the use and benefit of a niche group, such as a consortium of companies, while others have more ambitious aims and regard themselves as truly public and open, designed for anyone, anywhere to use, and to be used to host a wide variety of applications.
 
 In spite of our best intentions, however, sometimes a system intended for the use and benefit of one group of people falls under the control of a different group of people. The term “capture” refers to [state capture](https://en.wikipedia.org/wiki/State_capture), a phenomenon all too common in real world politics whereby a small group of people, institutions, or special interests gain a great deal of power and influence over the governance of a country or other political entity and exploit that power and influence to benefit private interests, at everyone else’s expense. This often involves misuse of power such as ensuring that favorable laws are passed or that funding is directed towards private interests. A key characteristic of state capture is that it cannot be discovered or remedied through normal, legal means because the institutions that would ordinarily undertake investigate and prosecution (e.g., police, courts, electoral process, legislative and executive powers) are likely to have been subverted by the captors.
 
@@ -147,7 +143,7 @@ To some extent, soliciting contributions from outside developers is also a marke
 
 In every application stack there is a tradeoff between, on the one hand, keeping complexity in the base layer versus, on the other hand, pushing it further up the stack. Other things being equal, complexity in the base layer is nice because it ensures a more consistent experience for all apps and all users, and better tooling. Everyone relies on the same base layer, and if everyone is using the same base layer tools more can be invested in those tools and they will get better, faster.
 
-On the flipside, a more complex base layer presents several important challenges. It’s harder to make changes when something is more complex. A more complex base layer presents a larger attack surface and increases the likelihood of bugs and exploits, reducing security. In the case of blockchain, changing the base layer often requires a network upgrade hard fork, which is costly to coordinate and cannot be done too frequently. Mistakes at the base layer are also very costly, since the network will probably [be burdened with them forever](https://www.etherean.org/blockchain/governance/community/2020/11/15/key-ingredients-better-blockchain-part-ix-production-readiness.html#backwards-compatibility). And, as with politics, it’s impossible to make everyone happy with protocol changes. For this reason, other things being equal, it’s better for the base layer to be as simple as possible. This allows more “localized” innovation and experimentation to happen further up the stack.[^6][^7]
+On the flipside, a more complex base layer presents several important challenges. It’s harder to make changes when something is more complex. A more complex base layer presents a larger attack surface and increases the likelihood of bugs and exploits, reducing security. In the case of blockchain, changing the base layer often requires a network upgrade hard fork, which is costly to coordinate and cannot be done too frequently. Mistakes at the base layer are also very costly, since the network will probably [be burdened with them forever](https://www.etherean.org/blockchain/governance/community/2020/11/15/key-ingredients-better-blockchain-part-ix-production-readiness.html#backwards-compatibility). And, as with politics, it’s impossible to make everyone happy with protocol changes. For this reason, other things being equal, it’s better for the base layer to be as simple as possible. This allows more “localized” innovation and experimentation to happen further up the stack.[^6]<sup>,</sup>[^7]
 
 This is a tricky balancing act and every network and protocol has to choose a point on the spectrum. Optimize very far in one direction and you get Bitcoin: a simple, stable, secure base layer and cryptocurrency with mature tooling, but one that’s arguably too simple to do many really interesting, useful things. Go very far in the other direction and you get Ethereum: a protocol that [changes often](https://medium.com/mycrypto/the-history-of-ethereum-hard-forks-6a6dae76d56f) in ways that sometimes [seem arbitrary and unpredictable](https://www.coindesk.com/ethereums-istanbul-upgrade-will-break-680-smart-contracts-on-aragon), that’s [less secure as a result](https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9), and that has a plethora of immature, [experimental tooling](https://github.com/ethereum/fe).
 
@@ -180,17 +176,16 @@ It’s very early days for blockchain as an idea and a technology, and I’m not
 As you think about the long term sustainability of your project, this is as good a place as any to start: where are you headed, and why? While I can’t articulate exactly what our destination is, I have a feeling that, even as we take very different paths, we’re all headed there together. I look forward to seeing you there. Godspeed.
 
 
-<!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^1]:
      This happens throughout human society. It’s the reason that people in a country built by immigrants can arbitrarily decide one day that they don’t want to allow any more immigration. And it’s easy to convince yourself why this is rational: because resources are limited, because we should prioritize those who are already here, or because there just isn’t room for more—nevermind the fact that, in countries as in blockchains, immigrants create enormous value over the long term.
 
 [^2]:
-     See sample code at https://github.com/spacemeshos/ed25519.
+     See sample code at [https://github.com/spacemeshos/ed25519](https://github.com/spacemeshos/ed25519).
 
 [^3]:
-     Source: Oliva, G.A., Hassan, A.E. & Jiang, Z.M.. An exploratory study of smart contracts in the Ethereum blockchain platform. Empir Software Eng 25, 1864–1904 (2020). https://doi.org/10.1007/s10664-019-09796-5
+     Source: Oliva, G.A., Hassan, A.E. & Jiang, Z.M.. An exploratory study of smart contracts in the Ethereum blockchain platform. Empir Software Eng 25, 1864–1904 (2020). [https://doi.org/10.1007/s10664-019-09796-5](https://doi.org/10.1007/s10664-019-09796-5)
 
 [^4]:
      Ethereum does offer a partial refund for smart contract storage space that’s cleared, but it appears not to be enough of an incentive since this rarely happens. See [GasToken](https://gastoken.io/) for more information.
