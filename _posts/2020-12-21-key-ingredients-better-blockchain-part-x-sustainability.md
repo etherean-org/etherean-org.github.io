@@ -2,14 +2,14 @@
 layout:   post
 title:    "The key ingredients to a better blockchain, Part X: Sustainability"
 subtitle: "Our understanding of what makes a blockchain successful is becoming clear. What will it take to succeed?"
-image:    /assets/hello-i-m-nik-8yCmQODY2SY-unsplash.jpg
+image:    /assets/vitto-sommella-CrDnEQE_9vY-unsplash.jpg
 author:   Lane Rettig
-date:     2020-12-19 16:48:00 -0500
+date:     2020-12-21 16:48:00 -0500
 categories: [blockchain, economics, governance]
 ---
 ![Lego Firework Guy]({{page.image}})
 
-<p style="text-align: center"><sub>We humans have learned to build big, impressive things, but we’re less good at building things that last. Even the most mature digital technologies have survived barely one generation in human terms. Blockchain has the potential for real longevity, but to achieve this, we must do a much better job of designing for the long run. (Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hello I'm Nik</a> on Unsplash.)</sub></p>
+<p style="text-align: center"><sub>We humans have learned to build big, impressive things, but we’re less good at building things that last. Even the most mature digital technologies have survived barely one generation in human terms. Blockchain has the potential for real longevity, but to achieve this, we must do a much better job of designing for the long run. (Photo by <a href="https://unsplash.com/@vitto_s?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Vitto Sommella</a> on Unsplash)</sub></p>
 
 {%- include blockchain-nav-top.html -%}
 
@@ -198,3 +198,5 @@ As you think about the long term sustainability of your project, this is as good
 
 [^7]:
      There are some interesting real-world parallels here as well. Companies and countries face a version of this tradeoff. When they move complexity, in the form of regulation or policy, at the “base layer” (i.e., the top, executive or national level), they gain efficiency at the cost of enabling more localized innovation, and making the entire structure more fragile. When they devolve this complexity, they make the opposite tradeoff: more local innovation and more resiliency at the cost of standardization and efficiency.
+
+{%- include blockchain-nav-bottom.html -%}
