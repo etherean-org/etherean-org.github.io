@@ -13,6 +13,8 @@ categories: [blockchain, governance, community]
 
 {%- include blockchain-nav-top.html -%}
 
+<h4>Table of Contents</h4>
+
 * Table of contents
 {:toc}
 
