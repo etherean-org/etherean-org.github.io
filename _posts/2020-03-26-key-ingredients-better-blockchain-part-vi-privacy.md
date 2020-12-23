@@ -14,6 +14,13 @@ categories: [blockchain, privacy]
 
 {%- include blockchain-nav-top.html -%}
 
+<h4>Table of Contents</h4>
+
+* Table of contents
+{:toc}
+
+## Introduction
+
 Most people would agree that privacy is important, but how many have reflected on what “privacy” actually means? Before talking about privacy, it’s useful to define it.
 
 Let’s start with what it’s not: privacy does not mean total seclusion or isolation. In fact, it means _freedom from unwanted observation or intrusion._ In other words, privacy is the ability to decide when, and with whom, we interact or disclose information. Privacy means _selective expression,_ and is closely related to ideas such as [community and consent](https://twitter.com/zooko/status/1068953367454539777?s=20).
